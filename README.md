@@ -1,5 +1,5 @@
 # serveo
-Serveo port forwarder, ngrok alternative
+Serveo port forwarder, ngrok alternative. powered by serveo.net
 
 ```
 parameter : [http/tcp] [local port] [option]
