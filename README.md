@@ -31,6 +31,6 @@ request custom port
 ### Windows
 u can download exe, but arg not supported cause compiled by winrar
 
-if u run from source, u can run with arg.
+if u run from source, u can run with arg. but u must run in same folder with library.
 > sorry in windows version, haven't supported to reverse shell with nc. maybe have problem in ssh library.
 > please contrib
