@@ -29,8 +29,8 @@ request custom port
 `wget https://raw.githubusercontent.com/milio48/serveo/master/serveo.sh`
 
 ### Windows
-u can download exe, but arg not supported cause compiled by winrar
+You can download exe, but arg not supported cause compiled by winrar
 
-if u run from source, u can run with arg. but u must run in same folder with library.
+if you run from source, you can run with arg. but you must run in same folder with library.
 > sorry in windows version, haven't supported to reverse shell with nc. maybe have problem in ssh library.
 > please contrib
